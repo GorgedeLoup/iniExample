@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Config">
+        <file>IPConfig.ini</file>
+    </qresource>
+</RCC>
